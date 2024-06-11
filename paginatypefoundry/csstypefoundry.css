@@ -1,0 +1,292 @@
+.typefoundry,
+.typefoundry * {
+  box-sizing: border-box;
+}
+.typefoundry {
+  background: #ffffff;
+  height: 3975px;
+  position: relative;
+}
+.type-foundry {
+  background: #ece5dd;
+  width: 1440px;
+  height: 3975px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-25 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 64px;
+}
+.rectangle-346 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 3849px;
+}
+.franklin-gothic {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 76px;
+  top: 34px;
+}
+.image-111 {
+  width: 399px;
+  height: 294px;
+  position: absolute;
+  left: 1528px;
+  top: 103px;
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-2 {
+  width: 533px;
+  height: 318px;
+  position: absolute;
+  left: 76px;
+  top: 133px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-22 {
+  width: 283px;
+  height: 400px;
+  position: absolute;
+  left: 60px;
+  top: 481px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-23 {
+  width: 298px;
+  height: 400px;
+  position: absolute;
+  left: 376px;
+  top: 451px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.rectangle-347 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 621px;
+  height: 718px;
+  position: absolute;
+  left: 755px;
+  top: 133px;
+}
+.rectangle-348 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 621px;
+  height: 1322px;
+  position: absolute;
+  left: 76px;
+  top: 956px;
+}
+.urw-type-foundry {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 806px;
+  top: 159px;
+  width: 509px;
+  height: 133px;
+}
+.storia {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 1018px;
+  width: 509px;
+  height: 133px;
+}
+.urw-type-foundry-gmb-h-precedentemente-urw-design-development-gmb-h-una-fonderia-di-caratteri-con-sede-ad-amburgo-in-germania-la-fonderia-dispone-di-una-propria-libreria-con-pi-di-500-famiglie-di-caratteri-l-azienda-specializzata-in-caratteri-tipografici-aziendali-personalizzati-e-nello-sviluppo-di-caratteri-non-latini-di-propriet-di-monotype-imaging-da-maggio-2020 {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 806px;
+  top: 250px;
+  width: 520px;
+  height: 569px;
+}
+.la-urw-stata-fondata-nel-1971-da-gerhard-rubow-e-j-rgen-weber-come-societ-di-consulenza-aziendale-rubow-weber-gmb-h-ben-presto-peter-karow-si-un-come-terzo-partner-e-in-seguito-la-societ-fu-ribattezzata-urw-software-type-gmb-h-abbreviazione-urw-che-sta-per-unternehmensberatung-rubow-weber-negli-anni-successivi-furono-sviluppati-prodotti-nel-settore-della-grafica-programmi-di-composizione-e-layout-per-editori-per-l-utilizzo-di-digiset-e-software-per-il-sistema-di-elaborazione-delle-immagini-chromacom-sviluppato-da-hell-verein-kiel-nel-1983-urw-ha-sviluppato-un-sistema-per-ritagliare-diverse-scritte-e-figure-su-pellicole-autoadesive-colorate-per-la-pubblicit-esterna-nel-1975-fu-introdotto-ikarus-un-programma-in-grado-di-memorizzare-digitalmente-i-contorni-di-una-lettera-insieme-a-tutte-le-informazioni-necessarie-per-la-composizione-elettronica-diventando-uno-standard-nel-settore-della-tipografia-per-la-revisione-e-la-manipolazione-di-singole-lettere-o-interi-gruppi-di-caratteri-urw-ha-sviluppato-un-editor-grafico-e-una-moltitudine-di-programmi-per-rendere-disponibili-digitalmente-i-caratteri-per-diversi-sistemi-di-composizione {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 1129px;
+  width: 546px;
+  height: 1587px;
+}
+.rectangle-350 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 621px;
+  height: 1274px;
+  position: absolute;
+  left: 76px;
+  top: 2383px;
+}
+.urw {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 2434px;
+  width: 509px;
+  height: 133px;
+}
+.dopo-che-la-urw-dichiar-bancarotta-all-inizio-del-1995-peter-rosenfeld-fond-la-urw-il-1-marzo-di-quell-anno-il-1-gennaio-1996-ha-trasferito-la-ditta-individuale-insieme-al-dr-j-rgen-willrodt-jochen-lau-e-svend-bang-in-una-gesellschaft-mit-beschr-nkter-haftung-urw-stata-venduta-a-global-graphics-plc-nel-2016-e-ribattezzata-urw-type-foundry-gmb-h-nel-2018-fino-al-2019-peter-rosenfeld-stato-l-amministratore-unico-di-urw-type-foundry-e-dal-2020-christofer-linusson-l-amministratore-unico-urw-type-foundry-stata-venduta-a-monotype-imaging-nel-maggio-2020-al-momento-della-vendita-urw-deteneva-i-diritti-su-migliaia-di-caratteri-originali-inclusi-sempre-pi-caratteri-non-latini-di-particolare-importanza-sono-stati-i-rapporti-consolidati-con-aziende-cinesi-e-giapponesi-per-le-quali-urw-ha-sviluppato-uno-speciale-software-per-la-modifica-dei-caratteri-cinesi-urw-stata-coinvolta-nello-sviluppo-di-caratteri-tipografici-aziendali-per-daimler-siemens-deutsche-telekom-general-motors-e-activision-blizzard {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 2515px;
+  width: 546px;
+  height: 1587px;
+}
+.rectangle-349 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 621px;
+  height: 1962px;
+  position: absolute;
+  left: 755px;
+  top: 956px;
+}
+.formazione-della-libreria-di-caratteri {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 792px;
+  top: 996px;
+  width: 509px;
+  height: 133px;
+}
+.oltre-allo-sviluppo-del-software-urw-ha-iniziato-a-creare-la-propria-libreria-di-caratteri-tutto-inizi-nel-1975-in-collaborazione-con-letraset-e-successivamente-con-la-international-typeface-corporation-ci-ha-offerto-a-karow-la-possibilit-di-digitalizzare-il-lavoro-finale-dei-progettisti-itc-che-doveva-essere-fotografato-e-preparato-da-ogni-singolo-produttore-di-sistemi-di-composizione-per-il-rispettivo-programma-al-momento-della-fotocomposizione-e-di-rendere-disponibili-gli-originali-pronti-per-la-riproduzione-tagliati-su-plotter-solo-attraverso-il-dtp-questi-dati-digitali-inizialmente-destinati-ad-un-uso-analogico-hanno-assunto-un-nuovo-significato-urw-ha-continuamente-ampliato-la-propria-libreria-di-font-digitali-ed-diventata-nota-anche-per-aver-reso-alcuni-dei-suoi-font-disponibili-alla-comunit-open-source-come-font-gratuiti-gli-esempi-includono-i-caratteri-ghostscript-i-pi-comunemente-conosciuti-dei-quali-sono-nimbus-mono-l-nimbus-roman-no-9-l-e-nimbus-sans-l-alcuni-font-gratuiti-popolari-inclusi-nei-moderni-sistemi-open-source-sono-parzialmente-basati-sui-font-ghostscript-nimbus-come-gnu-free-font-e-te-x-gyre-urw-stata-coinvolta-in-una-causa-del-1995-con-monotype-corporation-per-aver-clonato-i-suoi-caratteri-e-averli-nominati-con-un-nome-che-iniziava-con-le-stesse-tre-lettere-poich-le-forme-dei-caratteri-stessi-non-possono-essere-protette-da-copyright-negli-stati-uniti-la-causa-era-incentrata-sulla-violazione-del-marchio-un-tribunale-statunitense-ha-deciso-che-l-urw-stava-deliberatamente-confondendo-il-pubblico-perch-il-furto-della-prima-parte-di-un-marchio-ben-noto-e-l-aggiunta-di-esso-a-un-suffisso-senza-valore-un-metodo-di-bracconaggio-del-marchio-da-tempo-condannato-dai-tribunali-il-tribunale-ha-emesso-un-ingiunzione-che-impedisce-all-urw-di-utilizzare-i-nomi-scelti {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 792px;
+  top: 1129px;
+  width: 546px;
+  height: 2146px;
+}
+.f-4078852950103-2 {
+  width: 391px;
+  height: 678px;
+  position: absolute;
+  left: 870px;
+  top: 2979px;
+  object-fit: cover;
+}
+.info {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 568px;
+  top: 3919px;
+}
+.type-foundry2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 637px;
+  top: 3919px;
+}
+.esempi {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 802px;
+  top: 3919px;
+}
+.info2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1061px;
+  top: 34px;
+}
+.type-foundry3 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1130px;
+  top: 34px;
+}
+.esempi2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1295px;
+  top: 34px;
+}

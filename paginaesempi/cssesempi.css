@@ -1,0 +1,329 @@
+.esempi,
+.esempi * {
+  box-sizing: border-box;
+}
+.esempi {
+  background: #ffffff;
+  height: 2437px;
+  position: relative;
+}
+.esempi2 {
+  background: #ece5dd;
+  width: 1440px;
+  height: 2440px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-351 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 365px;
+  height: 208px;
+  position: absolute;
+  left: 328px;
+  top: 902px;
+}
+.rectangle-353 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 365px;
+  height: 208px;
+  position: absolute;
+  left: 328px;
+  top: 1343px;
+}
+.rectangle-355 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 365px;
+  height: 208px;
+  position: absolute;
+  left: 328px;
+  top: 1832px;
+}
+.rectangle-356 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 365px;
+  height: 208px;
+  position: absolute;
+  left: 779px;
+  top: 1832px;
+}
+.rectangle-352 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 365px;
+  height: 208px;
+  position: absolute;
+  left: 779px;
+  top: 902px;
+}
+.rectangle-354 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 449px;
+  height: 208px;
+  position: absolute;
+  left: 779px;
+  top: 1343px;
+}
+.rectangle-25 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 64px;
+}
+.rectangle-26 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 630px;
+}
+.rectangle-346 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 2301px;
+}
+.image-111 {
+  width: 399px;
+  height: 294px;
+  position: absolute;
+  left: 1528px;
+  top: 103px;
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-2 {
+  width: 1288px;
+  height: 456px;
+  position: absolute;
+  left: 76px;
+  top: 116px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.esempi-di-utilizzo {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 64px;
+  top: 697px;
+  width: 509px;
+  height: 133px;
+}
+._52436589783-9-c-12-d-6-bf-59-4-k-1 {
+  width: 286px;
+  height: 352px;
+  position: absolute;
+  left: 76px;
+  top: 830px;
+  object-fit: cover;
+}
+.great-motion-picture-themes-vol-1-1 {
+  width: 291px;
+  height: 292px;
+  position: absolute;
+  left: 76px;
+  top: 1301px;
+  object-fit: cover;
+}
+.dionne-warwick-1 {
+  width: 291px;
+  height: 450px;
+  position: absolute;
+  left: 367px;
+  top: 1711px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.lfa-unitedstates-0081-1 {
+  width: 284px;
+  height: 282px;
+  position: absolute;
+  left: 1113px;
+  top: 1306px;
+  object-fit: cover;
+}
+.urn-gvn-ra-01-30051001494514-large-1 {
+  width: 263px;
+  height: 372px;
+  position: absolute;
+  left: 1113px;
+  top: 830px;
+  object-fit: cover;
+}
+.europa-1 {
+  width: 295px;
+  height: 450px;
+  position: absolute;
+  left: 1081px;
+  top: 1711px;
+  object-fit: cover;
+}
+.teach-him-to-dial-o-and-he-ll-always-have-a-friend-at-t-bell-ad-1972-unknown {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 386px;
+  top: 923px;
+  width: 282px;
+  height: 148px;
+}
+.great-motion-picture-themes-album-art-1960-unknown {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 386px;
+  top: 1369px;
+  width: 282px;
+  height: 148px;
+}
+.dionne-warwick-at-lincoln-center-philarmonic-hall-concert-poster-1966-milton-glaser {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 386px;
+  top: 1862px;
+  width: 282px;
+  height: 148px;
+}
+.europa-el-surgimiento-de-una-naci-n-by-carl-j-friedrich-1973-daniel-gil {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 821px;
+  top: 1862px;
+  width: 282px;
+  height: 148px;
+}
+.nobble-the-nf-nazis-pinkback-button-school-kids-against-the-nazis-1978-david-king {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 821px;
+  top: 1369px;
+  width: 282px;
+  height: 148px;
+}
+.gefeliciteerd-jan-de-hartog-poster-1974-unknown {
+  color: #000000;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 821px;
+  top: 923px;
+  width: 282px;
+  height: 148px;
+}
+.info {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1061px;
+  top: 31px;
+}
+.type-foundry {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1130px;
+  top: 31px;
+}
+.esempi3 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1295px;
+  top: 31px;
+}
+.franklin-gothic {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 64px;
+  top: 29px;
+}
+.info2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 568px;
+  top: 2361px;
+}
+.type-foundry2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 637px;
+  top: 2361px;
+}
+.esempi4 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 802px;
+  top: 2361px;
+}

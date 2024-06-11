@@ -1,0 +1,306 @@
+.informazioni,
+.informazioni * {
+  box-sizing: border-box;
+}
+.informazioni {
+  background: #ece5dd;
+  height: 3502px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-25 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 64px;
+}
+.rectangle-346 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 3307px;
+}
+.rectangle-349 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1566px;
+  height: 11px;
+  position: absolute;
+  left: 835px;
+  top: 3151px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.rectangle-350 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1566px;
+  height: 11px;
+  position: absolute;
+  left: 1304px;
+  top: 3151px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.franklin-gothic {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  text-decoration: underline;
+  position: absolute;
+  left: 76px;
+  top: 34px;
+}
+.image-111 {
+  width: 399px;
+  height: 294px;
+  position: absolute;
+  left: 1528px;
+  top: 103px;
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-2 {
+  width: 533px;
+  height: 318px;
+  position: absolute;
+  left: 76px;
+  top: 133px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-22 {
+  width: 283px;
+  height: 400px;
+  position: absolute;
+  left: 60px;
+  top: 481px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+._272415-ecd-9-c-1-e-768-f-68-c-5472-cab-2-be-8-e-1-fd-35-f-23 {
+  width: 298px;
+  height: 400px;
+  position: absolute;
+  left: 376px;
+  top: 451px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.rectangle-347 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 621px;
+  height: 1405px;
+  position: absolute;
+  left: 755px;
+  top: 133px;
+}
+.rectangle-348 {
+  background: rgba(255, 90, 52, 0.18);
+  width: 621px;
+  height: 2259px;
+  position: absolute;
+  left: 76px;
+  top: 956px;
+}
+.storia {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 806px;
+  top: 184px;
+  width: 509px;
+  height: 133px;
+}
+.specifiche-tecniche {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 1018px;
+  width: 509px;
+  height: 133px;
+}
+.franklin-gothic-un-tipo-di-carattere-sans-serif-disegnato-da-morris-fuller-benton-1872-1948-nel-1903-uno-degli-oltre-200-tipi-disegnati-da-benton-si-presume-che-il-nome-sia-un-attribuzione-a-benjamin-franklin-mentre-l-attributo-gothic-l-equivalente-anche-se-sempre-meno-usato-di-sans-serif-nei-paesi-anglofoni-l-intera-famiglia-di-caratteri-che-include-anche-le-varianti-condensata-ed-extra-condensata-fu-pubblicata-negli-anni-tra-il-1902-ed-il-1912-include-inoltre-diversi-spessori-in-crescendo-book-medium-demi-heavy-si-distingue-da-molti-altri-caratteri-sans-serif-per-la-sua-a-tradizionale-e-particolarmente-per-la-sua-g-a-due-anelli-cosa-abbastanza-rara-per-un-carattere-sans-serif-la-coda-della-q-parte-dal-centro-del-fondo-del-corpo-della-lettera-e-curva-verso-destra-mantenendo-sempre-lo-stesso-peso-nel-1980-il-font-designer-victor-caruso-crea-itc-franklin-gothic-nel-1991-david-berlow-implementa-il-carattere-con-il-condensato-e-il-compresso {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 808px;
+  top: 257px;
+  width: 538px;
+  height: 1793px;
+}
+.full-font-name-family-name-sub-family-name-format-version-material-number-glyph-count-file-size-character-sets {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 1162px;
+  width: 488px;
+  height: 692px;
+}
+.franklin-got-reg-franklin-got-reg-regular-open-type-cff-version-1-000-ps-1-00-hotconv-1-0-57-makeotf-lib-2-0-21895-16771559-403-38712-ascii-ebcdic-cp-be-western-europe-ibm-cp-037-english-ibm-cp-1026-turkish-ibm-cp-1140-western-europe-ibm-cp-273-german-iso-latin-1-iso-latin-13-baltic-iso-latin-15-western-europe-iso-latin-16-south-eastern-europe-iso-latin-2-central-and-eastern-europe-iso-latin-9-turkish-ms-cp-1250-central-and-eastern-europe-ms-cp-1252-western-europe-ms-cp-1254-turkish-ms-cp-1257-baltic-mac-central-europe {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 332px;
+  top: 1169px;
+  width: 325px;
+  height: 784px;
+}
+.ot-features-supported-lang {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 2096px;
+  width: 288px;
+  height: 559px;
+}
+.aalt-kern-liga-locl-afar-afrikaans-aragonese-asu-bemba-bena-breton-bosnian-catalan-cebuano-chiga-corsican-czech-danish-taita-german-lower-sorbian-jola-fonyi-english-spanish-estonian-basque-finnish-filipino-faroese-french-friulian-irish-scottish-gaelic-galician-swiss-german-gusii-manx-croatian-upper-sorbian-hungarian-interlingua-indonesian-ido-icelandic-italian-lojban-machame-jju-makonde-kabuverdianu-kalaallisut-kalenjin-shambala-colognian-kurdish-cornish-latin-luxembourgish-ganda-ligurian-lithuanian-luo-luyia-latvian-morisyen-malagasy-makhuwa-meetto-maori-mohawk-malay-maltese-muscogee-norwegian-bokm-l-north-ndebele-low-german-norwegian-nynorsk-norwegian-south-ndebele-northern-sotho-nyankole-occitan-oromo-polish-portuguese-quechua-k-iche-romansh-rundi-romanian-rombo-kinyarwanda-rwa-samburu-sangu-sardinian-northern-sami-sena-sango-sidamo-slovak-slovenian-southern-sami-lule-sami-inari-sami-shona-somali-albanian-swati-saho-southern-sotho-sundanese-swedish-swahili-teso-turkmen-tswana-turkish-taroko-tsonga-volap-k-vunjo-walloon-warlpiri-wolof-xhosa-soga-zulu {
+  color: #262628;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 332px;
+  top: 2096px;
+  width: 309px;
+  height: 1805px;
+}
+._66932052950103-1 {
+  width: 216px;
+  height: 284px;
+  position: absolute;
+  left: 967px;
+  top: 1585px;
+  object-fit: cover;
+}
+._66932052950103-2 {
+  width: 181px;
+  height: 363px;
+  position: absolute;
+  left: 984px;
+  top: 1939px;
+  object-fit: cover;
+}
+._66932052950103-4 {
+  width: 180px;
+  height: 358px;
+  position: absolute;
+  left: 985px;
+  top: 2365px;
+  object-fit: cover;
+}
+._66932052950103-3 {
+  width: 179px;
+  height: 358px;
+  position: absolute;
+  left: 984px;
+  top: 2793px;
+  object-fit: cover;
+}
+.info {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1043px;
+  top: 31px;
+}
+.type-foundry {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1112px;
+  top: 31px;
+}
+.esempi {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1277px;
+  top: 31px;
+}
+.info2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 568px;
+  top: 3389px;
+}
+.type-foundry2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 637px;
+  top: 3389px;
+}
+.esempi2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 802px;
+  top: 3389px;
+}

@@ -1,0 +1,234 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  height: 1258px;
+  position: relative;
+}
+.home-page {
+  background: #ece5dd;
+  width: 1440px;
+  height: 1258px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-25 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 64px;
+}
+.rectangle-26 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 630px;
+}
+.rectangle-346 {
+  background: #f15d3f;
+  border-style: solid;
+  border-color: #f15d3f;
+  border-width: 1px;
+  width: 1312px;
+  height: 9px;
+  position: absolute;
+  left: 64px;
+  top: 1125px;
+}
+.info {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1021px;
+  top: 36px;
+}
+.type-foundry {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1090px;
+  top: 36px;
+}
+.esempi {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1255px;
+  top: 36px;
+}
+.info2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 568px;
+  top: 1200px;
+}
+.type-foundry2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 637px;
+  top: 1200px;
+}
+.esempi2 {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 802px;
+  top: 1200px;
+}
+.franklin-gothic {
+  color: #786640;
+  text-align: left;
+  font-family: "LibreFranklin-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 76px;
+  top: 34px;
+}
+.image-111 {
+  width: 399px;
+  height: 294px;
+  position: absolute;
+  left: 1528px;
+  top: 103px;
+  object-fit: cover;
+}
+.rectangle-345 {
+  background: #3f5c6c;
+  width: 215px;
+  height: 293px;
+  position: absolute;
+  left: 1052px;
+  top: 777px;
+}
+.esempi3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 1120px;
+  top: 1033px;
+  width: 180px;
+  height: 65px;
+}
+.rectangle-347 {
+  background: #f15d3f;
+  width: 215px;
+  height: 293px;
+  position: absolute;
+  left: 561px;
+  top: 777px;
+}
+.rectangle-348 {
+  background: #786640;
+  width: 215px;
+  height: 293px;
+  position: absolute;
+  left: 102px;
+  top: 777px;
+}
+.informazioni {
+  color: #ffffff;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 137px;
+  top: 1033px;
+  width: 180px;
+  height: 26px;
+}
+.type-foundry3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "LibreFranklin-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 590px;
+  top: 1033px;
+  width: 180px;
+  height: 26px;
+}
+.fotofooter-1 {
+  width: 1288px;
+  height: 456px;
+  position: absolute;
+  left: 76px;
+  top: 116px;
+  object-fit: cover;
+}
+.fotoinfo-1 {
+  width: 215px;
+  height: 325px;
+  position: absolute;
+  left: 102px;
+  top: 686px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.fototypefoundry-1 {
+  width: 216px;
+  height: 325px;
+  position: absolute;
+  left: 561px;
+  top: 686px;
+  object-fit: cover;
+}
+.fotoesempi-1 {
+  width: 216px;
+  height: 325px;
+  position: absolute;
+  left: 1052px;
+  top: 686px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
